@@ -2,6 +2,8 @@
 
 Dev Burguer é um **cardápio digital responsivo** que simula o sistema de pedidos de uma hamburgueria, permitindo visualizar produtos, adicionar itens ao carrinho e calcular o valor total.
 
+🔗 **Confira o resultado:** [Spotify](https://dev-burguerr.vercel.app/)
+
 ---
 
 ## 🚀 Funcionalidades
